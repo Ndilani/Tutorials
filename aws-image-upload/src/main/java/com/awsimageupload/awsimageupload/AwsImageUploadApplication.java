@@ -1,4 +1,4 @@
-package com.tutorial.imageupload.awsimageupload;
+package com.awsimageupload.awsimageupload;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
